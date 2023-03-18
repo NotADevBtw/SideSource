@@ -51,7 +51,7 @@
 			"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/LS_Footnote.PNG",
 			"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Misc.PNG",
 			"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Extra_Tools.PNG"
-		],
+		]
 	},
 	{
 		"name": "ControlConfig",
@@ -71,8 +71,9 @@
 				"downloadURL": "https://cdn.discordapp.com/attachments/1030840385959895130/1084978444791709796/ControlConfig-0.1.0-alpha.ipa",
 				"size": 7557647,
 				"minOSVersion": "14.0",
-				"maxOSVersion": "16.1.2",
+				"maxOSVersion": "16.1.2"
 		}
 		]
 	}
+	]
 }
