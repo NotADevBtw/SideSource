@@ -246,6 +246,26 @@
 				"size": 127339660
 			}
 		]
+	},
+	{
+		"name": "Spotify",
+		"bundleIdentifier": "com.spotify.client",
+		"developerName": "iJulioVenre & Aesthyrica",
+		"subtitle": "Spotify with Spotilife & Sposify injected",
+		"version": "8.5.60",
+		"downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Spotilife1.8-Sposify8.5.52-Spotify8.5.60/Spotify8.5.60_Spotilife1.8_Sposify8.5.52.ipa",
+		"localizedDescription": "Handle",
+		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+		"tintColor": "65D36E",
+		"beta": false,
+		"versions": [
+			{
+				"version": "8.5.60",
+				"date": "2023-02-09",
+				"downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Spotilife1.8-Sposify8.5.52-Spotify8.5.60/Spotify8.5.60_Spotilife1.8_Sposify8.5.52.ipa",
+				"size": 37818688
+			}
+		]
 	}
 	]
 }
