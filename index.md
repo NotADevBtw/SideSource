@@ -1,4 +1,4 @@
- `https://so0ony.github.io/SideSource/mysource.json`
+ `https://notadevbtw.github.io/SideSource/mysource.json`
 
 -------
 ## _What is this?_
