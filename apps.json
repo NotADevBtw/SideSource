@@ -6,7 +6,7 @@
 	"apps": [
 			{
 				"name": "Cowabunga",
-				"bundleIdentifier": "com.leemin.cowabunga",
+				"bundleIdentifier": "com.leemin.Cowabunga",
 				"developerName": "SourceLocation & leminlimez",
 				"subtitle": "iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox",
 				"version": "8.1.4",
