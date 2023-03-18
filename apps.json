@@ -212,9 +212,9 @@
 		"bundleIdentifier": "com.hammerandchisel.discord",
 		"developerName": "EnmityTeam",
 		"subtitle": "Discord with Enmity injected",
-		"version": "2.1.4",
+		"version": "164.0",
 		"downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.4/Enmity.ipa",
-		"localizedDescription": "Handle",
+		"localizedDescription": "Enmity version 2.1.4",
 		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
 		"tintColor": "6310F3",
 		"beta": false,
@@ -234,7 +234,7 @@
 		"subtitle": "Instagram with Rocket tweak injected",
 		"version": "272.0",
 		"downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/01.mar.23/Instagram272.0_Rocket3.8.5.ipa",
-		"localizedDescription": "Handle",
+		"localizedDescription": "Rocket version 3.8.5",
 		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
 		"tintColor": "8820ED",
 		"beta": false,
@@ -254,7 +254,7 @@
 		"subtitle": "Spotify with Spotilife & Sposify injected",
 		"version": "8.5.60",
 		"downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Spotilife1.8-Sposify8.5.52-Spotify8.5.60/Spotify8.5.60_Spotilife1.8_Sposify8.5.52.ipa",
-		"localizedDescription": "Handle",
+		"localizedDescription": "Spotilife version 1.8 & Sposify version 8.5.52",
 		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
 		"tintColor": "65D36E",
 		"beta": false,
@@ -274,7 +274,7 @@
 		"subtitle": "Twitch with TwitchAdBlock injected",
 		"version": "14.4",
 		"downloadURL": "https://github.com/level3tjg/TwitchAdBlock/releases/download/v14.4_0.0.9-2/Twitch_14.4_TwitchAdBlock_0.0.9-2.ipa",
-		"localizedDescription": "Handle",
+		"localizedDescription": "TwitchAdBlock version 0.0.9-2",
 		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
 		"tintColor": "884AF5",
 		"beta": false,
@@ -284,6 +284,26 @@
 				"date": "2023-01-23",
 				"downloadURL": "https://github.com/level3tjg/TwitchAdBlock/releases/download/v14.4_0.0.9-2/Twitch_14.4_TwitchAdBlock_0.0.9-2.ipa",
 				"size": 5348316
+			}
+		]
+	},
+	{
+		"name": "Twitter",
+		"bundleIdentifier": "com.atebits.Tweetie2",
+		"developerName": "BandarHL",
+		"subtitle": "Twitter with BHTwitter injected",
+		"version": "9.49",
+		"downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/3.9.1/Twitter_9.49_BHTwitter_3.9.1.ipa",
+		"localizedDescription": "BHTwitter version 3.9.1",
+		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+		"tintColor": "4B98E7",
+		"beta": false,
+		"versions": [
+			{
+				"version": "9.49",
+				"date": "2023-04-14",
+				"downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/3.9.1/Twitter_9.49_BHTwitter_3.9.1.ipa",
+				"size": 96303272
 			}
 		]
 	}
