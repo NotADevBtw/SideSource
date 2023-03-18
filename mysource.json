@@ -1,7 +1,4 @@
 {
-	"name": "NotADevBtw Source",
-	"identifier": "com.notadevbtw.notadevsource",
-	"sourceURL": "https://github.com/NotADevBtw/SideSource/raw/main/mysource.json",
 	"apps": [
 			{
 				"name": "Cowabunga",
