@@ -1,0 +1,56 @@
+{
+	"name": "So0ony Source",
+	"identifier": "com.so0ony.so0onysource",
+	"sourceURL": "https://github.com/NotADevBTW/SideSource/raw/master/apps.json",
+	"apps": [
+			{
+				"name": "Cowabunga",
+				"bundleIdentifier": "com.leemin.cowabunga",
+				"developerName": "SourceLocation & leminlimez",
+				"subtitle": "iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox",
+				"versions": [
+						{
+							"version": "8.1.4",
+							"date": "2023-03-15",
+							"localizedDescription": "Handle",
+							"downloadURL": "https://github.com/leminlimez/Cowabunga/releases/tag/v8.1.4/Cowabunga.ipa",
+							"size": 21867,
+							"minOSVersion": "14.0",
+							"maxOSVersion": "16.1.2"
+						}
+					],
+				"localizedDescriptions": "Handle2",
+				"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+				"tintColor": "1D4D0A",
+				"permissions": [
+						{
+							"type": "photos",
+							"usageDescription": "Allows to import photos as icons."
+						},
+						{
+							"type": "location",
+							"usageDescription": "Allows the app to refresh in the background."
+						},
+						{
+							"type": "background-fetch",
+							"usageDescription": "Allows the app to refresh in the background."
+						},
+						{
+							"type": "network",
+							"usageDescription": "Allows the app to download themes from the internet."
+						}
+					],
+				"screenshotURLs": [
+							"https://github.com/leminlimez/Cowabunga/blob/main/Images/Home.PNG",
+							"https://github.com/leminlimez/Cowabunga/blob/main/Images/Tools.PNG",
+							"https://github.com/leminlimez/Cowabunga/blob/main/Images/SpringboardTools.PNG",
+							"https://github.com/leminlimez/Cowabunga/blob/main/Images/Audio_Changer.PNG",
+							"https://github.com/leminlimez/Cowabunga/blob/main/Images/Passcode_Editor.PNG",
+							"https://github.com/leminlimez/Cowabunga/blob/main/Images/LS_Footnote.PNG",
+							"https://github.com/leminlimez/Cowabunga/blob/main/Images/Misc.PNG",
+							"https://github.com/leminlimez/Cowabunga/blob/main/Images/Extra_Tools.PNG"
+						],
+				"beta": false
+			}
+		]
+}
