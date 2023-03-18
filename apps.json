@@ -57,7 +57,7 @@
 		"name": "ControlConfig",
 		"bundleIdentifier": "com.f1shy-dev.ControlConfig",
 		"developerName": "sneakyf1shy",
-		"subtitle": "Control Center customizer",
+		"subtitle": "Control Center Customizer",
 		"version": "0.1.0",
 		"downloadURL": "https://cdn.discordapp.com/attachments/1030840385959895130/1084978444791709796/ControlConfig-0.1.0-alpha.ipa",
 		"localizedDescription": "Handle",
@@ -73,6 +73,28 @@
 				"minOSVersion": "14.0",
 				"maxOSVersion": "16.1.2"
 		}
+		]
+	},
+	{
+		"name": "DirtyJIT",
+		"bundleIdentifier": "org.haxi0.DirtyJIT",
+		"developerName": "haxi0",
+		"subtitle": "Enable JIT on any application using MDC exploit",
+		"version": "0.3",
+		"downloadURL": "https://cdn.discordapp.com/attachments/1008667942260592750/1085169864378949732/DirtyJIT.ipa",
+		"localizedDescription": "Handle",
+		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+		"tintColor": "2154F4",
+		"beta": true,
+		"versions": [
+			{
+				"version": "0.1.0",
+				"date": "2023-03-14",
+				"downloadURL": "https://cdn.discordapp.com/attachments/1008667942260592750/1085169864378949732/DirtyJIT.ipa",
+				"size": 1305409,
+				"minOSVersion": "14.0",
+				"maxOSVersion": "16.1.2"
+			}
 		]
 	}
 	]
