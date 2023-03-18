@@ -206,6 +206,26 @@
 				"maxOSVersion": "16.1.2"
 			}
 		]
+	},
+	{
+		"name": "Enmity",
+		"bundleIdentifier": "com.hammerandchisel.discord",
+		"developerName": "EnmityTeam",
+		"subtitle": "A theos-based tweak for Discord",
+		"version": "2.1.4",
+		"downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.4/Enmity.ipa",
+		"localizedDescription": "Handle",
+		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+		"tintColor": "6310F3",
+		"beta": false,
+		"versions": [
+			{
+				"version": "2.1.4",
+				"date": "2023-02-10",
+				"downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.4/Enmity.ipa",
+				"size": 124635722
+			}
+		]
 	}
 	]
 }
