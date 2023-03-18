@@ -15,42 +15,42 @@
 		"tintColor": "1D4D0A",		
 		"beta": false,
 		"versions": [
-			{
-				"version": "8.1.4",
-				"date": "2023-03-15",
-				"downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.4/Cowabunga.ipa",
-				"size": 21867855,
-				"minOSVersion": "14.0",
-				"maxOSVersion": "16.1.2"
-			}
+	{
+		"version": "8.1.4",
+		"date": "2023-03-15",
+		"downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.4/Cowabunga.ipa",
+		"size": 21867855,
+		"minOSVersion": "14.0",
+		"maxOSVersion": "16.1.2"
+	}
 		],
 		"permissions": [
-			{
-				"type": "photos",
-				"usageDescription": "Allows to import photos as icons."
-			},
-			{
-				"type": "location",
-				"usageDescription": "Allows the app to refresh in the background."
-			},
-			{
-				"type": "background-fetch",
-				"usageDescription": "Allows the app to refresh in the background."
-			},
-			{
-				"type": "network",
-				"usageDescription": "Allows the app to download themes from the internet."
-			}
-		],
+		{
+			"type": "photos",
+			"usageDescription": "Allows to import photos as icons."
+		},
+		{
+			"type": "location",
+			"usageDescription": "Allows the app to refresh in the background."
+		},
+		{
+			"type": "background-fetch",
+			"usageDescription": "Allows the app to refresh in the background."
+		},
+		{
+			"type": "network",
+			"usageDescription": "Allows the app to download themes from the internet."
+		}
+	],
 		"screenshotURLs": [
-				"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Home.PNG",
-				"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Tools.PNG",
-				"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/SpringboardTools.PNG",
-				"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Audio_Changer.PNG",
-				"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Passcode_Editor.PNG",
-				"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/LS_Footnote.PNG",
-				"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Misc.PNG",
-				"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Extra_Tools.PNG"
+			"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Home.PNG",
+			"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Tools.PNG",
+			"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/SpringboardTools.PNG",
+			"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Audio_Changer.PNG",
+			"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Passcode_Editor.PNG",
+			"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/LS_Footnote.PNG",
+			"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Misc.PNG",
+			"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Extra_Tools.PNG"
 		],
 	},
 	{
@@ -72,7 +72,7 @@
 				"size": 7557647,
 				"minOSVersion": "14.0",
 				"maxOSVersion": "16.1.2",
-			}
+		}
 		]
 	}
 }
