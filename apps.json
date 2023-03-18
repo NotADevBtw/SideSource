@@ -96,6 +96,50 @@
 				"maxOSVersion": "16.1.2"
 			}
 		]
+	},
+	{
+		"name": "Filza (MDC)",
+		"bundleIdentifier": "com.tigisoftware.Filza",
+		"developerName": "TigiSoftware",
+		"subtitle": "Powerful File Manager for iPhone, iPad & iPod Touch",
+		"version": "1.0.1",
+		"downloadURL": "https://github.com/dbmz502/Filza_MacDirtyCow/releases/download/1.0.1/Filza_4.0_Patched_15.0-16.1.2.ipa",
+		"localizedDescription": "Handle",
+		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+		"tintColor": "4EAAD1",
+		"beta": false,
+		"versions": [
+			{
+				"version": "1.0.1",
+				"date": "2023-01-30",
+				"downloadURL": "https://github.com/dbmz502/Filza_MacDirtyCow/releases/download/1.0.1/Filza_4.0_Patched_15.0-16.1.2.ipa",
+				"size": 9474564,
+				"minOSVersion": "14.0",
+				"maxOSVersion": "16.1.2"
+			}
+		]
+	},
+	{
+		"name": "Proof",
+		"bundleIdentifier": "com.nahtedetihw.Proof",
+		"developerName": "ETHN",
+		"subtitle": "View App Bundle IDs on device",
+		"version": "1.3",
+		"downloadURL": "https://github.com/nahtedetihw/Proof/releases/download/v1.3/Proof.ipa",
+		"localizedDescription": "Handle",
+		"iconURL": "https://camo.githubusercontent.com/19ecf80504ed95601bb4f6dfa2bc8c31b33560c248998de2b809ed6d290bc950/68747470733a2f2f692e6962622e636f2f4e794a514234682f50726f6f662e706e67",
+		"tintColor": "2A2B2D",
+		"beta": false,
+		"versions": [
+			{
+				"version": "1.3",
+				"date": "2023-03-01",
+				"downloadURL": "https://github.com/nahtedetihw/Proof/releases/download/v1.3/Proof.ipa",
+				"size": 598202,
+				"minOSVersion": "14.0",
+				"maxOSVersion": "16.1.2"
+			}
+		]
 	}
 	]
 }
