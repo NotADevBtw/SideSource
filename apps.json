@@ -10,6 +10,10 @@
 		"subtitle": "iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox",
 		"version": "8.1.4",
 		"downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.4/Cowabunga.ipa",
+		"localizedDescription": "Handle",
+		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+		"tintColor": "1D4D0A",		
+		"beta": false,
 		"versions": [
 			{
 				"version": "8.1.4",
@@ -20,9 +24,6 @@
 				"maxOSVersion": "16.1.2"
 			}
 		],
-		"localizedDescription": "Handle",
-		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
-		"tintColor": "1D4D0A",
 		"permissions": [
 			{
 				"type": "photos",
@@ -51,7 +52,27 @@
 				"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Misc.PNG",
 				"https://raw.githubusercontent.com/leminlimez/Cowabunga/main/Images/Extra_Tools.PNG"
 		],
-		"beta": false
-	}
-		]
+	},
+	{
+		"name": "ControlConfig",
+		"bundleIdentifier": "com.f1shy-dev.ControlConfig",
+		"developerName": "sneakyf1shy",
+		"subtitle": "Control Center customizer",
+		"version": "0.1.0",
+		"downloadURL": "https://cdn.discordapp.com/attachments/1030840385959895130/1084978444791709796/ControlConfig-0.1.0-alpha.ipa",
+		"localizedDescription": "Handle",
+		"iconURL": "",
+		"tintColor": "401179",
+		"beta": true,
+		"versions": [
+			{
+				"version": "0.1.0",
+				"date": "2023-03-14",
+				"downloadURL": "https://cdn.discordapp.com/attachments/1030840385959895130/1084978444791709796/ControlConfig-0.1.0-alpha.ipa",
+				"size": 7557647,
+				"minOSVersion": "14.0",
+				"maxOSVersion": "16.1.2",
+			}
+		],
+	]
 }
