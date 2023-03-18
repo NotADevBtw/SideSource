@@ -211,7 +211,7 @@
 		"name": "Enmity",
 		"bundleIdentifier": "com.hammerandchisel.discord",
 		"developerName": "EnmityTeam",
-		"subtitle": "A theos-based tweak for Discord",
+		"subtitle": "Discord with Enmity injected",
 		"version": "2.1.4",
 		"downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.4/Enmity.ipa",
 		"localizedDescription": "Handle",
@@ -224,6 +224,26 @@
 				"date": "2023-02-10",
 				"downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.4/Enmity.ipa",
 				"size": 124635722
+			}
+		]
+	},
+	{
+		"name": "Instagram",
+		"bundleIdentifier": "com.burbn.instagram",
+		"developerName": "Alfahily",
+		"subtitle": "Instagram with Rocket tweak injected",
+		"version": "272.0",
+		"downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/01.mar.23/Instagram272.0_Rocket3.8.5.ipa",
+		"localizedDescription": "Handle",
+		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+		"tintColor": "8820ED",
+		"beta": false,
+		"versions": [
+			{
+				"version": "272.0",
+				"date": "2023-03-01",
+				"downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/01.mar.23/Instagram272.0_Rocket3.8.5.ipa",
+				"size": 127339660
 			}
 		]
 	}
