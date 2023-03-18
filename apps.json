@@ -9,6 +9,8 @@
 				"bundleIdentifier": "com.leemin.cowabunga",
 				"developerName": "SourceLocation & leminlimez",
 				"subtitle": "iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox",
+				"version": "8.1.4",
+				"downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.4/Cowabunga.ipa",
 				"versions": [
 						{
 							"version": "8.1.4",
