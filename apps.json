@@ -162,6 +162,50 @@
 				"maxOSVersion": "16.1.2"
 			}
 		]
+	},
+	{
+		"name": "Sweeper",
+		"bundleIdentifier": "org.haxi0.Sweeper",
+		"developerName": "haxi0",
+		"subtitle": "Jailed iCleaner for MDC devices",
+		"version": "0.3",
+		"downloadURL": "https://cdn.discordapp.com/attachments/1008667942260592750/1080474916551405658/Sweeper.ipa",
+		"localizedDescription": "Handle",
+		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+		"tintColor": "56C1FB",
+		"beta": true,
+		"versions": [
+			{
+				"version": "0.3",
+				"date": "2023-03-01",
+				"downloadURL": "https://cdn.discordapp.com/attachments/1008667942260592750/1080474916551405658/Sweeper.ipa",
+				"size": 1475385,
+				"minOSVersion": "14.0",
+				"maxOSVersion": "16.1.2"
+			}
+		]
+	},
+	{
+		"name": "WDBFontOverwrite",
+		"bundleIdentifier": "com.ginsudev.WDBFontOverwrite",
+		"developerName": "GinsuDev",
+		"subtitle": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689",
+		"version": "1.10.8",
+		"downloadURL": "https://github.com/ginsudev/WDBFontOverwrite/releases/download/v1.10.8/WDBFontOverwrite.ipa",
+		"localizedDescription": "Handle",
+		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+		"tintColor": "ADADAD",
+		"beta": false,
+		"versions": [
+			{
+				"version": "1.10.8",
+				"date": "2023-02-09",
+				"downloadURL": "https://github.com/ginsudev/WDBFontOverwrite/releases/download/v1.10.8/WDBFontOverwrite.ipa",
+				"size": 5348316,
+				"minOSVersion": "14.0",
+				"maxOSVersion": "16.1.2"
+			}
+		]
 	}
 	]
 }
