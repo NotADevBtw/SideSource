@@ -54,7 +54,7 @@
 		"localizedDescription": "Analyze & Backup applications on your device",
 		"version": "1.0",
 		"downloadURL": "https://github.com/NSAntoine/AppIndex/releases/download/1.0/AppIndexTrollStore.tipa",
-		"iconURL": "",
+		"iconURL": "https://github.com/NotADevBtw/SideSource/blob/main/appindex.jpeg",
 		"tintColor": "9A9AE6",
 		"versions": [
 			{
