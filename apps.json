@@ -1,7 +1,7 @@
 {
 	"name": "NotADevBtw Source",
 	"subtitle": "Collection of apps with a focus on TrollStore-Only apps.",
-	"description": "Some apps are taken from swaggyP IPA repo. You should not have this repo but if you do maybe give me app suggestions on Twitter: @iz_j26",
+	"description": "You should not have this repo but if you do maybe give me app suggestions on Twitter: @iz_j26",
 	"website": "https://github.com/NotADevBtw",
 	"apps": [
 	{
@@ -124,7 +124,7 @@
 				"version": "10.19",
 				"date": "2023-12-08",
 				"downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/4.1/Twitter_10.19_BHTwitter_4.1_TrollStore.ipa",
-				"size": 96303272
+				"size": 162702774
 			}
 		]
 	},
@@ -143,7 +143,7 @@
 				"version": "18.49.3",
 				"date": "2023-12-11",
 				"downloadURL": "https://github.com/arichorn/uYouEnhanced/releases/download/v18.49.3-3.0.1/uYouEnhanced_18.49.3_3.0.1.ipa",
-				"size": 111605806
+				"size": 123567452
 			}
 		]
 	},
